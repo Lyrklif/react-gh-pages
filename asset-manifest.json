@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/typography-editor/react-gh-pages/static/css/main.3d783e58.chunk.css",
+    "main.js": "/typography-editor/react-gh-pages/static/js/main.395b3957.chunk.js",
+    "main.js.map": "/typography-editor/react-gh-pages/static/js/main.395b3957.chunk.js.map",
+    "runtime-main.js": "/typography-editor/react-gh-pages/static/js/runtime-main.863085be.js",
+    "runtime-main.js.map": "/typography-editor/react-gh-pages/static/js/runtime-main.863085be.js.map",
+    "static/js/2.a8e4e045.chunk.js": "/typography-editor/react-gh-pages/static/js/2.a8e4e045.chunk.js",
+    "static/js/2.a8e4e045.chunk.js.map": "/typography-editor/react-gh-pages/static/js/2.a8e4e045.chunk.js.map",
+    "index.html": "/typography-editor/react-gh-pages/index.html",
+    "precache-manifest.fe7a1381f86dfba4db2a9ecf052281c6.js": "/typography-editor/react-gh-pages/precache-manifest.fe7a1381f86dfba4db2a9ecf052281c6.js",
+    "service-worker.js": "/typography-editor/react-gh-pages/service-worker.js",
+    "static/css/main.3d783e58.chunk.css.map": "/typography-editor/react-gh-pages/static/css/main.3d783e58.chunk.css.map",
+    "static/js/2.a8e4e045.chunk.js.LICENSE": "/typography-editor/react-gh-pages/static/js/2.a8e4e045.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.863085be.js",
+    "static/js/2.a8e4e045.chunk.js",
+    "static/css/main.3d783e58.chunk.css",
+    "static/js/main.395b3957.chunk.js"
+  ]
+}
